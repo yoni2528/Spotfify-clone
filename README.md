@@ -1,4 +1,4 @@
-<h1>Spotify Clone App</h1>
+<h1>Spotify Clone Website</h1>
 
 <h2>App Preview</h2>
 
